@@ -1,0 +1,27 @@
+{
+  "identifier" : "CampfeeConfig",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "$3.99",
+      "familyShareable" : false,
+      "internalID" : "campsitefee_pro_internal",
+      "localizations" : [
+        {
+          "description" : "Unlock Annual camping spend total and per-park comparison",
+          "displayName" : "Campfee Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "campsitefee_pro",
+      "referenceName" : "Campfee Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {},
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
